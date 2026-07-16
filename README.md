@@ -1,82 +1,89 @@
 <div align="center">
 
-# Bernard Abraham
+# 👋 Hi, I'm Bernard Abraham
 
-### Full Stack Software Engineer | AI Engineer
+### Full Stack Software Engineer | AI Enthusiast
 
-Building scalable Web, Mobile & AI-powered Applications.
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=BernardAbraham27&label=Profile%20Views&color=0e75b6&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/BernardAbraham27?label=Followers&style=flat-square"/>
-  <img src="https://img.shields.io/github/stars/BernardAbraham27?affiliations=OWNER&style=flat-square"/>
-</p>
+Building modern Web, Mobile & AI-powered applications.
 
 <p>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:YOURMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=BernardAbraham27&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/BernardAbraham27?label=Followers&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/BernardAbraham27?affiliations=OWNER&style=for-the-badge"/>
 </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=ASP.NET+Core+Developer;React+Developer;Flutter+Developer;Building+AI+Powered+Applications;Always+Learning+New+Technologies"/>
 
 </div>
 
 ---
 
-# About Me
+# 💼 Professional Summary
 
-```yaml
-Name: Bernard Abraham
+I'm a **Full Stack Software Engineer** passionate about developing scalable web applications, cross-platform mobile apps, and AI-powered solutions.
 
-Role: Full Stack Software Engineer
-
-Experience:
-  Web Development
-  Mobile Development
-  Artificial Intelligence
-
-Specialization:
-  ASP.NET Core
-  React
-  Flutter
-
-Database:
-  PostgreSQL
-  SQL Server
-
-Current Focus:
-  AI Assistants
-  Enterprise Software
-  Clean Architecture
-```
+My goal is to create software that is **fast, reliable, user-friendly, and future-ready** using modern development practices.
 
 ---
 
-# Technology Stack
+# 🚀 About Me
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 👨‍💻 Professional
+
+- 💼 Full Stack Software Engineer
+- 🌍 Chennai, India
+- 🤖 AI Application Developer
+- 📱 Mobile App Developer
+- ☁️ Exploring Cloud Technologies
+
+</td>
+
+<td width="50%">
+
+### 🎯 Specialization
+
+- ASP.NET Core
+- React + TypeScript
+- Flutter
+- PostgreSQL
+- SQL Server
+- REST APIs
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=dotnet,react,flutter,ts,js,html,css,tailwind,postgres,mysql,docker,git,github,vscode,visualstudio"/>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,react,ts,js,html,css,tailwind,flutter,dart,postgres,mysql,git,github,vscode,visualstudio,postman,docker"/>
 
 </p>
 
 ---
 
-# Featured Projects
+# 📂 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🤖 Friday AI | AI desktop assistant with voice automation |
-| 🎫 Enterprise ITSM | Ticketing & SLA Management Platform |
-| 💰 Expense Management | ASP.NET Core + React + PostgreSQL |
-| 📱 Flutter Apps | Cross-platform mobile applications |
-| 🌐 Enterprise Websites | Modern responsive business solutions |
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🤖 Friday AI | AI-powered desktop assistant with voice automation | React • Electron • Ollama |
+| 💰 Expense Management | Enterprise expense tracking platform | ASP.NET Core • React • PostgreSQL |
+| 🎫 IT Ticketing System | Service desk with SLA tracking & dashboards | .NET • React |
+| 📱 Flutter Apps | Cross-platform Android & iOS applications | Flutter |
+| 🌐 Enterprise Websites | Modern business websites | React • ASP.NET Core |
 
 ---
 
-# GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -94,7 +101,7 @@ Current Focus:
 
 ---
 
-# Contribution Activity
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -104,24 +111,72 @@ Current Focus:
 
 ---
 
-# Current Focus
+# 🎯 Current Focus
 
-- Building AI-powered desktop applications
-- Enterprise-grade web applications
-- Flutter mobile applications
-- Cloud-ready backend services
-- Modern UI/UX
+```text
+✔ AI Desktop Assistant (Friday)
+
+✔ Enterprise Web Applications
+
+✔ Flutter Mobile Development
+
+✔ Clean Architecture
+
+✔ REST API Development
+
+✔ Continuous Learning
+```
 
 ---
 
-# Quote
+# 💡 Development Philosophy
 
-> "Great software is built with clean architecture, thoughtful design, and continuous learning."
+```csharp
+while (learning)
+{
+    Build();
+    Improve();
+    Share();
+    Repeat();
+}
+```
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=BernardAbraham27&theme=algolia&margin-w=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-⭐ Thanks for visiting my profile.
+## 🚀 "Building software that solves real-world problems."
+
+Thanks for visiting my profile.
+
+⭐ Feel free to explore my repositories.
 
 </div>
