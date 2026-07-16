@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 20" width="100%" height="20">
+  <defs>
+    <!-- Cyber Blue glowing gradient for the line -->
+    <linearGradient id="dividerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0" />
+      <stop offset="30%" stop-color="#00f2fe" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#4facfe" stop-opacity="1" />
+      <stop offset="70%" stop-color="#58a6ff" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  
+  <!-- Glowing Horizontal Line -->
+  <line x1="5%" y1="10" x2="95%" y2="10" stroke="url(#dividerGrad)" stroke-width="1.5" filter="url(#glow)"/>
+  
+  <!-- Animated light orb moving across the line -->
+  <circle cx="5%" cy="10" r="2.5" fill="#ffffff" filter="url(#glow)">
+    <animate attributeName="cx" values="5%;95%;5%" dur="4s" repeatCount="indefinite" />
+    <animate attributeName="fill" values="#ffffff;#a3d5ff;#ffffff" dur="2s" repeatCount="indefinite" />
+    <animate attributeName="r" values="2;3.5;2" dur="1s" repeatCount="indefinite" />
+  </circle>
+</svg>

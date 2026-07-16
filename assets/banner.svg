@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 300" width="854" height="300">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+
+    <!-- Cyber Blue Glowing Text Gradient -->
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe"/>
+      <stop offset="100%" stop-color="#4facfe"/>
+    </linearGradient>
+
+    <!-- Typing Animation Clip -->
+    <clipPath id="typingClip">
+      <rect x="0" y="-25" height="40" width="0">
+        <animate attributeName="width" from="0" to="450" dur="2s" fill="freeze" begin="1.5s"/>
+      </rect>
+    </clipPath>
+
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&amp;family=Fira+Code:wght@400;500&amp;display=swap');
+      
+      .title {
+        font-family: 'Inter', sans-serif;
+        font-weight: 800;
+        font-size: 52px;
+        fill: url(#textGradient);
+        opacity: 0;
+        animation: fadeIn 1s ease-out 0.5s forwards;
+      }
+      
+      .subtitle {
+        font-family: 'Fira Code', monospace;
+        font-size: 20px;
+        fill: #8b949e;
+        opacity: 0;
+        animation: fadeIn 1s ease-out forwards;
+      }
+
+      .typing {
+        font-family: 'Fira Code', monospace;
+        font-size: 20px;
+        fill: #58a6ff;
+      }
+
+      /* SVG animations */
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(10px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+
+      /* Glow effect */
+      .glow {
+        filter: drop-shadow(0 0 15px rgba(0, 242, 254, 0.4));
+      }
+
+      /* Grid Background Animation */
+      .grid-line {
+        stroke: rgba(255, 255, 255, 0.03);
+        stroke-width: 1;
+      }
+      
+      .circle {
+        fill: rgba(88, 166, 255, 0.05);
+        animation: pulse 4s infinite alternate;
+      }
+
+      @keyframes pulse {
+        0% { transform: scale(1); opacity: 0.3; }
+        100% { transform: scale(1.2); opacity: 0.8; }
+      }
+      
+      /* Hexagon float */
+      @keyframes float {
+        0% { transform: translateY(0px) rotate(0deg); }
+        50% { transform: translateY(-15px) rotate(5deg); }
+        100% { transform: translateY(0px) rotate(0deg); }
+      }
+      .hex {
+        transform-origin: center;
+        animation: float 6s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#bgGradient)" rx="12"/>
+
+  <!-- Grid Pattern for Tech Feel -->
+  <g class="grid">
+    <path class="grid-line" d="M 0 50 L 854 50 M 0 100 L 854 100 M 0 150 L 854 150 M 0 200 L 854 200 M 0 250 L 854 250"/>
+    <path class="grid-line" d="M 100 0 L 100 300 M 200 0 L 200 300 M 300 0 L 300 300 M 400 0 L 400 300 M 500 0 L 500 300 M 600 0 L 600 300 M 700 0 L 700 300 M 800 0 L 800 300"/>
+  </g>
+
+  <!-- Ambient circles -->
+  <circle cx="150" cy="70" r="60" class="circle" style="animation-delay: 0s"/>
+  <circle cx="700" cy="220" r="80" class="circle" style="animation-delay: 1.5s"/>
+
+  <!-- Text Content -->
+  <g transform="translate(70, 130)">
+    <text x="0" y="-15" class="subtitle">Hello, world! I'm</text>
+    <text x="0" y="45" class="title glow">Bernard Abraham</text>
+    
+    <!-- Typing Animation Group -->
+    <g transform="translate(0, 95)">
+      <text x="0" y="0" class="typing" clip-path="url(#typingClip)">> Full Stack Software Engineer</text>
+      <!-- Blinking Cursor -->
+      <rect x="0" y="-18" width="12" height="22" fill="#58a6ff" opacity="0">
+        <animate attributeName="x" from="0" to="360" dur="2s" fill="freeze" begin="1.5s"/>
+        <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" />
+      </rect>
+    </g>
+  </g>
+  
+  <!-- Decorative Abstract Hexagon (AI / Tech Vibe) -->
+  <g transform="translate(680, 150)" class="hex glow" opacity="0.9">
+    <path d="M 0 -50 L 43.3 -25 L 43.3 25 L 0 50 L -43.3 25 L -43.3 -25 Z" fill="none" stroke="#00f2fe" stroke-width="2"/>
+    <path d="M 0 -35 L 30.3 -17.5 L 30.3 17.5 L 0 35 L -30.3 17.5 L -30.3 -17.5 Z" fill="none" stroke="#58a6ff" stroke-width="1.5" stroke-dasharray="5 5"/>
+    <circle cx="0" cy="0" r="6" fill="#00f2fe"/>
+    <!-- Connecting lines -->
+    <line x1="0" y1="0" x2="43.3" y2="-25" stroke="#58a6ff" stroke-width="1"/>
+    <line x1="0" y1="0" x2="-43.3" y2="25" stroke="#58a6ff" stroke-width="1"/>
+    <line x1="0" y1="0" x2="0" y2="50" stroke="#58a6ff" stroke-width="1"/>
+  </g>
+</svg>
