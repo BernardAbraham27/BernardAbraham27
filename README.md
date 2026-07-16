@@ -1,195 +1,123 @@
 <div align="center">
 
-# BERNARD ABRAHAM
+# 👋 Hi, I'm Bernard Abraham
 
-### Full Stack Software Engineer • AI Builder
+### 💻 Full Stack Software Engineer
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                 FRIDAY DEVELOPMENT CONSOLE                  ║
-╚══════════════════════════════════════════════════════════════╝
+**ASP.NET Core • React • Flutter • AI Applications**
 
-Booting System...
+Building scalable web, mobile and AI-powered solutions.
 
-✔ Identity Verified
-✔ Developer Mode Enabled
-✔ AI Modules Loaded
-✔ Enterprise Modules Loaded
-
-Status : ONLINE
-```
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1500&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;ASP.NET+Core+Developer;React+Developer;Flutter+Developer;Building+AI+Powered+Applications"/>
 
 </div>
 
 ---
 
-# SYSTEM PROFILE
+# 🚀 About Me
 
-```yaml
-Name: Bernard Abraham
+I'm a Full Stack Software Engineer passionate about building modern, scalable applications across web, mobile, and AI.
 
-Role: Full Stack Software Engineer
-
-Experience:
-  - Enterprise Web Development
-  - Mobile Application Development
-  - AI Integration
-
-Specialization:
-  - ASP.NET Core
-  - React
-  - Flutter
-  - PostgreSQL
-
-Current Focus:
-  Building intelligent software with modern technologies.
-
-Mission:
-  Create scalable applications that combine performance,
-  user experience and artificial intelligence.
-```
+- 💻 Enterprise Web Development with ASP.NET Core
+- ⚛️ Modern UI Development with React
+- 📱 Cross-platform Mobile Apps using Flutter
+- 🤖 AI-powered Applications & Automation
+- 🗄️ PostgreSQL & SQL Server
+- ☁️ Always learning new technologies
 
 ---
 
-# TECH STACK
+# 💻 Tech Stack
 
-## Frontend
+### Frontend
 
-```text
-React              ████████████████████
-TypeScript         ██████████████████
-JavaScript         █████████████████
-HTML/CSS           ███████████████████
-Tailwind CSS       ████████████████
-```
+React • TypeScript • JavaScript • HTML • CSS • Tailwind CSS
 
-## Backend
+### Backend
 
-```text
-ASP.NET Core       ████████████████████
-REST APIs          ██████████████████
-Authentication     █████████████████
-Entity Framework   ████████████████
-```
+ASP.NET Core • C# • REST APIs • Entity Framework Core
 
-## Mobile
+### Mobile
 
-```text
-Flutter            ███████████████████
-Dart               █████████████████
-```
+Flutter • Dart
 
-## Database
+### Database
 
-```text
-PostgreSQL         ███████████████████
-SQL Server         █████████████████
-```
+PostgreSQL • SQL Server
+
+### Tools
+
+Git • GitHub • Visual Studio • VS Code • Postman
 
 ---
 
-# AI MODULES
+# 🚀 Featured Projects
 
-```text
-[✓] Friday AI Assistant
+## 🤖 Friday AI
 
-[✓] Local LLM Integration
-
-[✓] Voice Automation
-
-[✓] AI Desktop Interface
-
-[✓] Workflow Automation
-```
+AI-powered desktop assistant with voice interaction, automation, and local LLM integration.
 
 ---
 
-# ENTERPRISE PROJECTS
+## 💰 Expense Management System
 
-```text
-✔ Expense Management System
-
-✔ IT Ticketing Platform
-
-✔ Asset Management
-
-✔ Admin Dashboard
-
-✔ Employee Portal
-
-✔ Mobile Applications
-```
+Enterprise expense management platform using ASP.NET Core, React, and PostgreSQL.
 
 ---
 
-# CURRENT DEVELOPMENT
+## 🎫 IT Ticketing System
 
-```text
-Friday AI Assistant
-
-███████████████████░░░░░░░░░░
-
-Progress : 70%
-
-Status   : Active Development
-```
+Complete IT service management platform with SLA tracking, authentication, dashboards, and role management.
 
 ---
 
-# DEVELOPMENT PHILOSOPHY
+## 📱 Flutter Applications
 
-```csharp
-while (true)
-{
-    Learn();
-    Build();
-    Improve();
-    Deploy();
-}
-```
+Cross-platform mobile applications with clean architecture and API integration.
 
 ---
 
-# CURRENT OBJECTIVES
+# 📈 GitHub Statistics
 
-- Build production-ready enterprise applications
-- Develop AI-powered automation tools
-- Create scalable Flutter mobile applications
-- Explore cloud-native architecture
-- Continuously improve software quality
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BernardAbraham27&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardAbraham27&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BernardAbraham27&theme=tokyonight"/>
+
+</p>
 
 ---
 
-# CONNECT
+# 🎯 Currently Working On
 
-```text
-Email      : your@email.com
+- 🤖 Friday AI Assistant
+- 🌐 Enterprise Web Applications
+- 📱 Flutter Mobile Apps
+- ☁️ Cloud & AI Integration
 
-LinkedIn   : linkedin.com/in/yourprofile
+---
 
-Location   : Chennai, India
-```
+# 🌐 Connect With Me
+
+📧 Email: your@email.com
+
+💼 LinkedIn: https://linkedin.com/in/yourprofile
+
+🌍 Portfolio: Coming Soon
 
 ---
 
 <div align="center">
 
-## SYSTEM STATUS
+### "Building software that solves real-world problems."
 
-```text
-CPU          ████████████████ 100%
-
-Creativity   ████████████████ 100%
-
-Learning     ████████████████ 100%
-
-Coffee       ██████████████░░ 85%
-
-AI Engine    ONLINE
-
-Developer    ACTIVE
-```
-
-*"Building software that makes technology smarter."*
+⭐ Thanks for visiting my profile!
 
 </div>
