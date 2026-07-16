@@ -1,18 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Bernard Abraham
+# 👋 Hello, I'm Bernard Abraham
 
-### 💻 Full Stack Software Engineer
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineer;ASP.NET+Core+Developer;React+Developer;Flutter+Developer;Building+AI+Powered+Applications;Always+Learning+New+Technologies"/>
 
-Building scalable Web, Mobile & AI-powered Applications
-
-<p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=BernardAbraham27&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -20,117 +12,179 @@ Building scalable Web, Mobile & AI-powered Applications
 
 # 🚀 About Me
 
-I'm a **Full Stack Software Engineer** passionate about creating modern, scalable applications across web, mobile, and AI.
+```yaml
+Name: Bernard Abraham
 
-- 💻 Full Stack Development with **ASP.NET Core & React**
-- 📱 Cross-platform Mobile Apps with **Flutter**
-- 🔗 REST API Development
-- 🗄️ PostgreSQL & SQL Server
-- 🤖 Exploring AI-powered applications and automation
-- 🌱 Always learning new technologies
+Role: Full Stack Software Engineer
 
----
+Location: Chennai, India
 
-# 🛠 Tech Stack
+Languages:
+  - C#
+  - JavaScript
+  - TypeScript
+  - Dart
+  - SQL
 
-## Frontend
+Frontend:
+  - React
+  - HTML5
+  - CSS3
+  - Tailwind CSS
 
-- React
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
+Backend:
+  - ASP.NET Core
+  - REST API
 
-## Backend
+Mobile:
+  - Flutter
 
-- ASP.NET Core
-- C#
-- REST APIs
+Database:
+  - PostgreSQL
+  - SQL Server
 
-## Mobile
+Tools:
+  - Git
+  - GitHub
+  - Visual Studio
+  - VS Code
+  - Docker (Learning)
 
-- Flutter
-- Dart
-
-## Database
-
-- PostgreSQL
-- SQL Server
-
-## Tools
-
-- Git
-- GitHub
-- Visual Studio
-- VS Code
-- Postman
-- Figma
+Currently Building:
+  - Friday AI Assistant
+```
 
 ---
 
-# 🚀 Featured Projects
-
-### 🤖 Friday AI Assistant
-
-An AI-powered desktop assistant inspired by intelligent virtual assistants, integrating modern AI capabilities into a desktop experience.
-
----
-
-### 💰 Expense Management System
-
-A full-stack expense tracking application built with **ASP.NET Core**, **React**, and **PostgreSQL**, featuring authentication, dashboards, and reporting.
-
----
-
-### 🎫 Enterprise IT Ticketing System
-
-A Service Management platform with ticket assignment, SLA tracking, engineer management, and customer support workflows.
-
----
-
-### 📱 Flutter Mobile Apps
-
-Cross-platform applications built using Flutter with responsive UI and API integration.
-
----
-
-# 📈 GitHub Stats
+# ⚡ Tech Stack
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BernardAbraham27&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardAbraham27&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=dotnet,react,flutter,ts,js,html,css,tailwind,postgres,mysql,git,github,vscode,visualstudio,docker,firebase"/>
 
-<img src="https://streak-stats.demolab.com?user=BernardAbraham27&theme=tokyonight"/>
 </p>
 
 ---
 
-# 💡 Currently Working On
+# 📊 GitHub Analytics
 
-- 🤖 AI Assistant (Friday)
-- 🌐 Enterprise Web Applications
-- 📱 Flutter Mobile Projects
-- ☁️ Cloud & DevOps Learning
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BernardAbraham27&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardAbraham27&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BernardAbraham27&theme=tokyonight"/>
+
+</p>
 
 ---
 
-# 📫 Connect With Me
+# 🏆 Featured Projects
 
-📧 **Email:** your-email@example.com
+## 🤖 Friday AI Assistant
 
-💼 **LinkedIn:** https://linkedin.com/in/your-profile
+AI-powered desktop assistant inspired by Iron Man's JARVIS.
 
-🌐 **Portfolio:** Coming Soon
+**Tech**
+
+React • Electron • Ollama • Node.js
+
+---
+
+## 💰 Expense Management System
+
+Enterprise expense tracking platform.
+
+**Tech**
+
+ASP.NET Core • React • PostgreSQL
+
+---
+
+## 🎫 IT Ticketing System
+
+Complete ITSM platform with:
+
+- SLA Management
+- Asset Management
+- User Portal
+- Admin Dashboard
+- Engineer Dashboard
+
+---
+
+## 📱 Flutter Applications
+
+Modern Android & iOS applications built with Flutter.
+
+---
+
+# 🎯 Current Focus
+
+- 🤖 AI Automation
+- ☁️ Cloud Deployment
+- 📱 Flutter Applications
+- 🌐 Enterprise Web Applications
+- 🔐 Authentication & Security
+- 🏗 Clean Architecture
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BernardAbraham27&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 💼 What I Do
+
+✔ Enterprise Web Applications
+
+✔ REST API Development
+
+✔ React Frontend Development
+
+✔ Flutter Mobile Apps
+
+✔ Database Design
+
+✔ Authentication & Authorization
+
+✔ AI Integration
+
+✔ Responsive UI Design
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💡 "Turning ideas into scalable software."
 
-*"Code. Build. Learn. Repeat."*
+⭐ If you like my work, consider following my journey!
 
 </div>
