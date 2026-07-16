@@ -1,123 +1,127 @@
 <div align="center">
 
-# 👋 Hi, I'm Bernard Abraham
+# Bernard Abraham
 
-### 💻 Full Stack Software Engineer
+### Full Stack Software Engineer | AI Engineer
 
-**ASP.NET Core • React • Flutter • AI Applications**
+Building scalable Web, Mobile & AI-powered Applications.
 
-Building scalable web, mobile and AI-powered solutions.
+<p>
+  <img src="https://komarev.com/ghpvc/?username=BernardAbraham27&label=Profile%20Views&color=0e75b6&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/BernardAbraham27?label=Followers&style=flat-square"/>
+  <img src="https://img.shields.io/github/stars/BernardAbraham27?affiliations=OWNER&style=flat-square"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1500&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;ASP.NET+Core+Developer;React+Developer;Flutter+Developer;Building+AI+Powered+Applications"/>
+<p>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:YOURMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# About Me
 
-I'm a Full Stack Software Engineer passionate about building modern, scalable applications across web, mobile, and AI.
+```yaml
+Name: Bernard Abraham
 
-- 💻 Enterprise Web Development with ASP.NET Core
-- ⚛️ Modern UI Development with React
-- 📱 Cross-platform Mobile Apps using Flutter
-- 🤖 AI-powered Applications & Automation
-- 🗄️ PostgreSQL & SQL Server
-- ☁️ Always learning new technologies
+Role: Full Stack Software Engineer
 
----
+Experience:
+  Web Development
+  Mobile Development
+  Artificial Intelligence
 
-# 💻 Tech Stack
+Specialization:
+  ASP.NET Core
+  React
+  Flutter
 
-### Frontend
+Database:
+  PostgreSQL
+  SQL Server
 
-React • TypeScript • JavaScript • HTML • CSS • Tailwind CSS
-
-### Backend
-
-ASP.NET Core • C# • REST APIs • Entity Framework Core
-
-### Mobile
-
-Flutter • Dart
-
-### Database
-
-PostgreSQL • SQL Server
-
-### Tools
-
-Git • GitHub • Visual Studio • VS Code • Postman
+Current Focus:
+  AI Assistants
+  Enterprise Software
+  Clean Architecture
+```
 
 ---
 
-# 🚀 Featured Projects
-
-## 🤖 Friday AI
-
-AI-powered desktop assistant with voice interaction, automation, and local LLM integration.
-
----
-
-## 💰 Expense Management System
-
-Enterprise expense management platform using ASP.NET Core, React, and PostgreSQL.
-
----
-
-## 🎫 IT Ticketing System
-
-Complete IT service management platform with SLA tracking, authentication, dashboards, and role management.
-
----
-
-## 📱 Flutter Applications
-
-Cross-platform mobile applications with clean architecture and API integration.
-
----
-
-# 📈 GitHub Statistics
+# Technology Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BernardAbraham27&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardAbraham27&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BernardAbraham27&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=dotnet,react,flutter,ts,js,html,css,tailwind,postgres,mysql,docker,git,github,vscode,visualstudio"/>
 
 </p>
 
 ---
 
-# 🎯 Currently Working On
+# Featured Projects
 
-- 🤖 Friday AI Assistant
-- 🌐 Enterprise Web Applications
-- 📱 Flutter Mobile Apps
-- ☁️ Cloud & AI Integration
+| Project | Description |
+|----------|-------------|
+| 🤖 Friday AI | AI desktop assistant with voice automation |
+| 🎫 Enterprise ITSM | Ticketing & SLA Management Platform |
+| 💰 Expense Management | ASP.NET Core + React + PostgreSQL |
+| 📱 Flutter Apps | Cross-platform mobile applications |
+| 🌐 Enterprise Websites | Modern responsive business solutions |
 
 ---
 
-# 🌐 Connect With Me
+# GitHub Analytics
 
-📧 Email: your@email.com
+<p align="center">
 
-💼 LinkedIn: https://linkedin.com/in/yourprofile
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BernardAbraham27&show_icons=true&theme=github_dark&hide_border=true"/>
 
-🌍 Portfolio: Coming Soon
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardAbraham27&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=BernardAbraham27&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BernardAbraham27&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# Current Focus
+
+- Building AI-powered desktop applications
+- Enterprise-grade web applications
+- Flutter mobile applications
+- Cloud-ready backend services
+- Modern UI/UX
+
+---
+
+# Quote
+
+> "Great software is built with clean architecture, thoughtful design, and continuous learning."
 
 ---
 
 <div align="center">
 
-### "Building software that solves real-world problems."
-
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile.
 
 </div>
