@@ -25,7 +25,7 @@
 <br>
 
 <div align="center">
-  <img src="./assets/glass-card.svg" alt="Professional Summary">
+  <img src="./images/professional-summary.png" alt="Professional Summary" width="100%">
 </div>
 
 <div align="center">
